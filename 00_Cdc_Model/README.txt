@@ -1,0 +1,2 @@
+Il s'agit de modèles de cahier des charges réalisés pour les projets KLASS et mon projet perso de L3
+Le .docx contient des macros pour l'auto-génération de l'index (ouvrir sous word pour bénéficier de cette fonctionnalité)
